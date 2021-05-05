@@ -1,0 +1,1 @@
+export TICKETMASTER_KEY="lzhezQ1AwVGK7q9zgWfVlXsX1zqe9pGv"
